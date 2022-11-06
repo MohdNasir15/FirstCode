@@ -1,0 +1,15 @@
+package nasirk;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+
+public class CollectionDemo {
+	public static void main(String[]args) {
+HashMap h= new HashMap();
+h.put(100," deepak");
+h.put(101,"Nasir");
+
+		
+
+
+	}}

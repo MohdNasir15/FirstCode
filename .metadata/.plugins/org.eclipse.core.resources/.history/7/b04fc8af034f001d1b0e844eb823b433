@@ -1,0 +1,17 @@
+package nasir;
+
+public class Testp {
+	public void run () {
+		System.out.println("Nasir");}
+		public static void main(String []args) {
+			Testp t=new Testp();
+			t.start();
+		
+		
+	
+}
+		private void start() {
+			// TODO Auto-generated method stub
+			
+		}
+}

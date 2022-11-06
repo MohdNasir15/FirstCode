@@ -1,0 +1,8 @@
+package nasir;
+
+public class Tes {
+	public void run() {
+		System.out.println(Thread.currentThread().getPriority());
+		
+		
+	}}

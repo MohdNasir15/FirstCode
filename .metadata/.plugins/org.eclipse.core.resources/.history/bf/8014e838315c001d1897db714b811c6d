@@ -1,0 +1,16 @@
+package nasirk;
+
+abstract  class Bike {
+	abstract void run();
+	
+
+}
+class Honda8 extends Bike{
+	void run() {
+		System.out.println(" running is safly ");
+		Bike b= new Honda8();
+		b.run();
+		
+	}
+	
+}

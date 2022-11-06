@@ -1,0 +1,12 @@
+package nasir;
+
+public class Testp {
+public static void main(String []args) {
+	System.out.println("Hello");
+	
+	System.out.println(Thread.currentThread().getName());
+Thread.currentThread().setName("NasirKhan");
+System.out.println("New thread Name: +Thread.currentThread().getName");
+}
+
+}

@@ -1,0 +1,21 @@
+package nasirk;
+
+import java.util.ArrayList;
+
+public class CollectionAdd {
+	public static void main(String []args) 
+	{
+		ArrayList p=new ArrayList();
+		p.add(100);
+		p.add(500);
+		p.add(600);
+		System.out.println(p);
+		 ArrayList t=new ArrayList();
+		 t.add("aaa");
+		 t.add("nnn");
+		 t.add("kkk");
+		 System.out.println(t);
+		 p.addAll(t);
+		 System.out.println(t);
+		 
+	}}

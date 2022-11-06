@@ -1,0 +1,16 @@
+package nasir;
+
+public class Testp extends Thread {
+	public void run () {
+		System.out.println("Khan");}
+		public static void main(String []args) {
+			System.out.println("Nasir");
+			Testp t=new Testp();
+			t.start();
+				
+		
+	
+}
+					
+		
+}

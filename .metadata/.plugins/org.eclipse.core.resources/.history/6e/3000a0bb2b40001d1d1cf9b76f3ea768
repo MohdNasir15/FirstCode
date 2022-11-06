@@ -1,0 +1,13 @@
+
+package com.string;
+import java.util.*;
+
+public class StringExample {
+ 
+	public static void main(String[]args) {
+		
+		String FirstName = "Nasir";
+		String LastName= "Khan";
+		
+	}
+}

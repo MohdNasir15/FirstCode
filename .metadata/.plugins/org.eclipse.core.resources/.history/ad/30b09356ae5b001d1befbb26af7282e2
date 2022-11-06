@@ -1,0 +1,17 @@
+package nasirk;
+
+public class B {
+	private String Name;
+	 public void setName() {
+		 this.Name=Name;
+	 }
+	public String getName() {
+		return Name;
+}}
+class B{
+	public static void main(String[]args) {
+		B m=new B();
+		m.setName();
+		System.out.println("MY NAME IS:"+ m.getName());
+	}
+}

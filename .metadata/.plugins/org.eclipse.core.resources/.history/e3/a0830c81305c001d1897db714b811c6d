@@ -1,0 +1,7 @@
+package nasirk;
+
+ class Mobile7 {
+	abstract void run();
+	
+
+}

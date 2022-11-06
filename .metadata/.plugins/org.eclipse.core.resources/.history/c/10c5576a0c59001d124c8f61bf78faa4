@@ -1,0 +1,9 @@
+package nasirk;
+
+public class  {
+	public static void main(String[]args) {
+		
+		Stack s=new stack();
+	}
+
+}

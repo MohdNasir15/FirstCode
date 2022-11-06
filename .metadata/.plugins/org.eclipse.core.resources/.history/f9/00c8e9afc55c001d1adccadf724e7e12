@@ -1,0 +1,20 @@
+package nasirk;
+class Pulser{
+	void run() {
+		System.out.println(" Bike is ruunning fast");
+	}
+}
+
+
+public class Bike {
+	void run() {
+		System.out.println(" bike is ruunning 100km:");}
+		public static void main(String []args) {
+		Bike p=new Bike();
+		p.run();
+		
+			
+		
+	}
+
+}

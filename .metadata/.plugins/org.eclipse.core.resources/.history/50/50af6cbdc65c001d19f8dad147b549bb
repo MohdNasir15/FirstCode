@@ -1,0 +1,8 @@
+package nasirk;
+
+public class CollectionLinked {
+	public static void main(String[]args) {
+		
+	LinnkedList <String>
+}
+}

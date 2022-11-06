@@ -1,0 +1,20 @@
+package nasirk;
+class Abc{
+	private String Bike;
+	public void setBike(String Bike) {
+		this.Bike=Bike;
+	}
+	public String getBike(){
+		return Bike;
+	}
+}
+
+public class EncapsulationExamp {
+	public static void main(String []args) {
+		Abc n=new Abc();
+		n.setBike("Pulser");
+		System.out.println(" BIKE IS PULASER::__" +n.getBike());
+	}
+	
+
+}

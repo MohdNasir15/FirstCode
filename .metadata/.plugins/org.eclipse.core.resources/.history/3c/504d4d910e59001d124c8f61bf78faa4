@@ -1,0 +1,19 @@
+package nasirk;
+
+import java.rmi.Remote;
+import java.util.Stack;
+
+public class Dem  {
+	public static void main(String[]args) {
+		
+		Stack s=new Stack();
+		s.push(29);
+		s.push("nasir");
+		s.add(200.20);
+		s.add(30);
+		
+		
+		System.out.println(s);
+	}
+
+}

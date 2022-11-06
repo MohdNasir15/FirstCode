@@ -1,0 +1,17 @@
+package nasir;
+
+public class Test4  extends Thread {
+public void run() {
+	System.out.println("Child Thread");
+	
+}
+/**
+ * @param args
+ */
+public static void main(String []args) {
+	System.out.println("Main tHREAD");
+	Test4 t=new Test4();
+	 t.setDaemon(true);
+	 t.start();
+}
+}

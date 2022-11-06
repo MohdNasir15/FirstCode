@@ -1,0 +1,17 @@
+package nasirk;
+
+public class Nasa {
+	private String Name;
+	 public void setName() {
+		 this.Name=Name;
+	 }
+	public String getName() {
+		return Name;
+}}
+class b{
+	public static void main(String[]args) {
+		Nasa a=new Nasa();
+		a.setName(" Mo Nasir");
+		System.out.println("MY NAME IS:"+ a.getName());
+	}
+}

@@ -1,0 +1,15 @@
+package nasirk;
+
+class Bike10{  
+	final int speedlimit=0;
+		
+	 bike10(){
+		 speedlimit=100;
+		 System.out.println(speedLimit);
+	 }
+	 public static void main(String[] args) {
+		new Bike10();
+	}
+	 	}  
+
+

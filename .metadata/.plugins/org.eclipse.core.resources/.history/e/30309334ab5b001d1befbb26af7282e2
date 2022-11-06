@@ -1,0 +1,21 @@
+package nasirk;
+
+ class TestCase {
+ String name;
+
+  public String getName() {
+	  return name;
+	  
+  }
+  public void setName(String name) {
+	  
+	  this.name=name;
+  }	
+}
+class Test_01{
+	public static void main(String[] args) {
+		TestCase a1=new TestCase();
+		a1.setName("Mohammad");
+		System.out.println(a1.getName());
+	}
+}

@@ -1,0 +1,20 @@
+package nasirk;
+
+public class Bike {
+	void run() {
+		System.out.println(" bike is running");
+
+}}
+class Pulser extends Pulser{
+	void run(){
+		System.out.println("Bike  is running safly 80km");
+	}
+	public static void main(String  []args) {
+		
+		  Pulser b=new Pulser(); b.run();
+		 
+		
+		
+	}
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;nasirk.Stack.java&apos; to &apos;Dem.java&apos;&#x0D;&#x0A;- Original project: &apos;nasirk&apos;&#x0D;&#x0A;- Original element: &apos;nasirk.Stack.java&apos;&#x0D;&#x0A;- Renamed element: &apos;nasirk.Dem.java&apos;" description="Rename compilation unit &apos;Stack.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;nasirk{Stack.java" name="Dem.java" references="false" stamp="1667214537815" version="1.0"/>
+</session>

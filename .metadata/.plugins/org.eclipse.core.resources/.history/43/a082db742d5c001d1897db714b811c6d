@@ -1,0 +1,16 @@
+package nasirk;
+
+class Vechile{
+	 final void run() {
+		System.out.println(" running is bike ");
+	}
+	}
+class Bike3 extends Vechile{
+	public static void main (String[]args) {
+		Bike3 b=new Bike3();
+		b.run();
+		//new Bike3().run();
+	}
+}
+
+

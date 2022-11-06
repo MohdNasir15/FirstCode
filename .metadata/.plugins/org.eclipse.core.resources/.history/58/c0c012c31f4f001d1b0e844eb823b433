@@ -1,0 +1,16 @@
+package nasir;
+
+public class Tes  extends Thread {
+	public void run() {
+		System.out.println("child thread");
+		System.out.println(Thread.currentThread().getPriority());
+	}
+	public static void main(String[]args) {
+		System.out.println(Thread.currentThread().getPriority());
+		Thread.currentThread().getPriority(10);
+		Tes t=new Tes();
+		t.start();
+		
+		
+		
+	}}

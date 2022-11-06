@@ -1,0 +1,21 @@
+package nasirk;
+class Dog{
+	void eat() {
+		System.out.println("  dog is eating ");
+	}}
+ class Cat extends Dog {
+	
+	void Bark() {
+		
+		System.out.println(" Animal is barking");
+	}}
+ class Cat extends Cat{
+	 void mw() {
+		 System.out.println("cat is a running ");
+	 }
+ 
+	public static void main(String[]args) {
+		Cat a=new Cat();
+		a.Bark();
+		a.eat();
+		a.mw();}}
